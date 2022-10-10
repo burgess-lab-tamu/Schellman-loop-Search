@@ -7,7 +7,7 @@ database
 ```bash
 Schellman loop Finder Database
   The database can be found:
-    [Schellman loop Finder Database](https://www.dropbox.com/s/8donclg9uwzjl0k/Schellman%20loop%20Finder%20Database.csv?dl=0)
+    https://www.dropbox.com/s/8donclg9uwzjl0k/Schellman%20loop%20Finder%20Database.csv?dl=0
   what it includes:
     include all Schellman loops in PDB till Nov. 2020
     search Schellman loops in any interesting csyrtal by typing in its PDB code
