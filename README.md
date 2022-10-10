@@ -5,7 +5,7 @@ Search and analyse Schellman loops datamined from PDB
 
 database
 ```
-Schellman loop Finder Database
+Schellman loop Finder
   The database can be found:
     https://www.dropbox.com/s/8donclg9uwzjl0k/Schellman%20loop%20Finder%20Database.csv?dl=0
   what it includes:
