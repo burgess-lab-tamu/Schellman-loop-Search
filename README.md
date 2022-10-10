@@ -19,9 +19,10 @@ hot Schellman loops
   interface Schellman loops that are important to binding
 hydrophobic patterns of Schellman loops
   includes hydrophobic patterns of common α-helical Schellman loops, wide α-helical and π-helical Schellman loops
-```
 
-```
+
+
+
 Scripts
 Schellman_informatics.ipynb can do basic statistical analyses of any Schellman loop databases, providing structural and statistical information
 sasa_Schellman.py can calculate solvent-accessible surface areas of any given Schellman loop and help decide if it is a hot loop or not
