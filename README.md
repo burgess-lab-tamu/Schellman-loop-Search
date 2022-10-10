@@ -3,7 +3,7 @@ Search and analyse Schellman loops datamined from PDB
 
 ## Usage
 
-#database
+database
 
 Schellman loop Finder Database
   The database can be found:
@@ -21,12 +21,12 @@ hydrophobic patterns of Schellman loops
   includes hydrophobic patterns of common α-helical Schellman loops, wide α-helical and π-helical Schellman loops
 ```
 
-
-#Scripts
+```
+Scripts
 Schellman_informatics.ipynb can do basic statistical analyses of any Schellman loop databases, providing structural and statistical information
 sasa_Schellman.py can calculate solvent-accessible surface areas of any given Schellman loop and help decide if it is a hot loop or not
 count_hydrophobic_common and _wide.py can calculate hydrophobic patterns based on closest distance between sidechains
-```
+
 
 ## Citation
 
