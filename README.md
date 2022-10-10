@@ -2,7 +2,7 @@
 Search and analyse Schellman loops datamined from PDB
 
 ## Usage
-```
+
 database
 
 Schellman loop Finder Database
