@@ -1,2 +1,2 @@
 # Schellman-loop-Search
-Search and analyse Schellman loops in PDB
+Search and analyse Schellman loops datamined from PDB
