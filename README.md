@@ -32,4 +32,4 @@ count_hydrophobic_common and _wide.py can calculate hydrophobic patterns based o
 
 ## Citation
 
-to be published
+Mi, T., Nguyen, D. & Burgess, K. Bicyclic Schellman Loop Mimics (BSMs): Rigid Synthetic C-Caps for Enforcing Peptide Helicity. ACS Central Science (2023). https://doi.org:10.1021/acscentsci.2c01265
